@@ -1,0 +1,2 @@
+1、搜索mina,进入官网，下载mina压缩包
+2、右键项目，Build Path -> Add External Archives 选择mina-core-2.0.19，slf4j-api-1.7.25，导入
